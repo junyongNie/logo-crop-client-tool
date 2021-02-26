@@ -1,0 +1,10 @@
+github.com/coopsrc/glog v1.1.0 h1:evtJQcJKONnZi1AW/jLM2lAlIyNtMa3hOYcLCcyMD0I=
+github.com/coopsrc/glog v1.1.0/go.mod h1:1WRRyr8uA8hjchIMcZIb0iPNKCCURE+6dbunMqAL7CY=
+github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 h1:zYyBkD/k9seD2A7fsi6Oo2LfFZAehjjQMERAvZLEDnQ=
+github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646/go.mod h1:jpp1/29i3P1S/RLdc7JQKbRpFeM1dOBd8T9ki5s+AY8=
+github.com/ying32/dylib v0.0.0-20201022102751-7144b101e107 h1:d73rd6q+khiI6V7TbHVZKoCjBGKsKZd2KNrgDq6Pnew=
+github.com/ying32/dylib v0.0.0-20201022102751-7144b101e107/go.mod h1:WPBTfbqg/aA1xqHFPB4fgBHETq/G/75yErbnexmaEOo=
+github.com/ying32/govcl v2.0.9+incompatible h1:HjsVAX2YxJyD6iFzPyCvVBdRsAbAnuTEgIfXHzPBVI0=
+github.com/ying32/govcl v2.0.9+incompatible/go.mod h1:yZVtbJ9Md1nAVxtHKIriKZn4K6TQYqI1en3sN/m9FJ8=
+github.com/ying32/liblclbinres v0.0.0-20210106070124-c1ab35f34f5c h1:c92VqnQKqOE5sJcI5JUTe1Onhwrp8qHuIdr4/DbR0Lg=
+github.com/ying32/liblclbinres v0.0.0-20210106070124-c1ab35f34f5c/go.mod h1:oEmgAOPt+dALMzap3HgEQnaN+iCLE7m3C867jERInaI=
