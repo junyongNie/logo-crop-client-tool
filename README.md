@@ -1,7 +1,7 @@
 # logo-Crop
 国内各大应用市场、及微信支付宝申请账号所需要的 logo 尺寸裁剪工具
 
-<b>本项目 基于 <a href="https://github.com/ying32/govcl">github.com/ying32/govcl</a>，特别鸣谢</b>
+<b>本项目 UI部分 基于 <a href="https://github.com/ying32/govcl">github.com/ying32/govcl</a>，特别鸣谢</b>
 
 <br/>
 <br/>
